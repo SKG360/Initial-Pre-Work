@@ -1,0 +1,7 @@
+/* Summary Comment - Instead of hexidecimal digits, colors can be specified with numbers between 0 and 255.   */
+
+<style>
+  body {
+    background-color: rgb(0,0,0);
+  }
+</style>
