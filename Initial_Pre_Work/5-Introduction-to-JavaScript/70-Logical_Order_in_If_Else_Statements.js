@@ -1,4 +1,4 @@
-Summary Comment - Order is important in if, else if statements.
+// Summary Comment - Order is important in if, else if statements.
 
 function orderMyLogic(val) {
   if (val < 5) {
