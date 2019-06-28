@@ -1,4 +1,4 @@
-Summary Comment - Array bracket notation can be chained to access nested arrays.
+// Summary Comment - Array bracket notation can be chained to access nested arrays.
 
 // Setup
 var myPlants = [
